@@ -1,0 +1,7 @@
+C:\Users\Yoni\Desktop\TwitterTowers\TwitterTowers\obj\Debug\TwitterTowers.csproj.AssemblyReference.cache
+C:\Users\Yoni\Desktop\TwitterTowers\TwitterTowers\obj\Debug\TwitterTowers.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\Desktop\TwitterTowers\TwitterTowers\bin\Debug\TwitterTowers.exe.config
+C:\Users\Yoni\Desktop\TwitterTowers\TwitterTowers\bin\Debug\TwitterTowers.exe
+C:\Users\Yoni\Desktop\TwitterTowers\TwitterTowers\bin\Debug\TwitterTowers.pdb
+C:\Users\Yoni\Desktop\TwitterTowers\TwitterTowers\obj\Debug\TwitterTowers.exe
+C:\Users\Yoni\Desktop\TwitterTowers\TwitterTowers\obj\Debug\TwitterTowers.pdb
